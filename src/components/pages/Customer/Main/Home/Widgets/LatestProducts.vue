@@ -45,6 +45,7 @@
         <div v-if="product.stock == 0" class="soldOut">SOLD OUT</div>
       </div>
     </div>
+    <div style="clear:both"></div>
   </div>
 </template>
 
